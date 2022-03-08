@@ -1,0 +1,9 @@
+[workspace]
+members = [
+  "bot",
+  "cli",
+  "program",
+]
+
+[profile.dev]
+split-debuginfo = "unpacked"
