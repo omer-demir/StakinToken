@@ -3,6 +3,7 @@ members = [
   "bot",
   "cli",
   "program",
+  "program-staking-v1",
 ]
 
 [profile.dev]
